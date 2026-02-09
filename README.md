@@ -52,7 +52,7 @@ I'm actively contributing with **891+ commits** across my repositories!
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tew12345678910)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tew12345678910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
 </div>
 

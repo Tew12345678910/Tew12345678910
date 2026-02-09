@@ -14,7 +14,6 @@
 
 I'm a developer passionate about creating beautiful, functional web experiences. I love experimenting with modern web technologies and pushing the boundaries of what's possible in the browser.
 
-- 🔭 Currently working on: **wolfu** & **2nd-hand** projects
 - 🌱 Learning: Advanced UI/UX patterns, performance optimization, and modern web frameworks
 - 💡 Interests: Web development, responsive design, and creative problem-solving
 - ⚡ Fun fact: I believe in learning through building—even when attempts fail, they teach the most!

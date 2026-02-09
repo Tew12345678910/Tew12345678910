@@ -56,21 +56,6 @@ I'm actively contributing with **891+ commits** across my repositories!
 
 </div>
 
-## 🚀 Featured Projects
-
-### 🐺 [wolfu](https://github.com/Tew12345678910/wolfu)
-A modern web application featuring:
-- ✨ Dark mode support
-- 🎨 Custom favicon & SEO optimization
-- 📱 Responsive design
-- 🎬 YouTube integration
-
-### 🛒 [2nd-hand](https://github.com/Tew12345678910/2nd-hand)
-A full-featured marketplace platform with:
-- 🎨 Gradient textures & parallax effects
-- 🔐 Authentication system
-- 💅 Modern UI/UX design
-- 📄 About us page
 
 ## 📫 Let's Connect
 

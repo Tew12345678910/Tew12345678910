@@ -16,7 +16,6 @@ I'm a developer passionate about creating beautiful, functional web experiences.
 
 - 🌱 Learning: Advanced UI/UX patterns, performance optimization, and modern web frameworks
 - 💡 Interests: Web development, responsive design, and creative problem-solving
-- ⚡ Fun fact: I believe in learning through building—even when attempts fail, they teach the most!
 
 ## 🛠️ Tech Stack
 

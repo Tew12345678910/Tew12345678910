@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Tew
 
-### 🚀 Full-Stack Developer | UI/UX Enthusiast | Problem Solver
+### Full-Stack Developer | UI/UX Enthusiast | Problem Solver
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tew12345678910-181717?style=flat&logo=github)](https://github.com/Tew12345678910)
 
@@ -10,12 +10,12 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a developer passionate about creating beautiful, functional web experiences. I love experimenting with modern web technologies and pushing the boundaries of what's possible in the browser.
 
-- 🌱 Learning: Advanced UI/UX patterns, performance optimization, and modern web frameworks
-- 💡 Interests: Web development, responsive design, and creative problem-solving
+- Learning: Advanced UI/UX patterns, performance optimization, and modern web frameworks
+- Interests: Web development, responsive design, and creative problem-solving
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@ I'm a developer passionate about creating beautiful, functional web experiences.
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 I'm actively contributing with **891+ commits** across my repositories! 
 
@@ -55,7 +55,7 @@ I'm actively contributing with **891+ commits** across my repositories!
 </div>
 
 
-## 📫 Let's Connect
+## Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities!
 

@@ -44,31 +44,9 @@ I'm a developer passionate about creating beautiful, functional web experiences.
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## GitHub Activity
-
-I'm actively contributing with **891+ commits** across my repositories! 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tew12345678910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-
-</div>
-
-
-## Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-- 📧 Email: mathus5421@gmail.com
-- 💼 Open to: Collaborations, Open Source, Freelance
-
----
-
-<div align="center">
-  
-### 💭 Current Vibe
-
-*"Building, breaking, learning, and building again—that's the developer way."*
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Tew12345678910.Tew12345678910)
 

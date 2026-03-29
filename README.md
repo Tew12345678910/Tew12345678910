@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Tew
 
-### Full-Stack Developer | UI/UX Enthusiast | Problem Solver
+### Full-Stack Developer | UI/UX Designer
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tew12345678910-181717?style=flat&logo=github)](https://github.com/Tew12345678910)
 
